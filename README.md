@@ -1,4 +1,4 @@
-# Self-study Course Solutions
+# Independent Study Notes
 
 ## Overview
 This repository contains my solutions to assignments from various online courses I've completed during my self-study journey. It serves as a personal archive and reference for my learning progress.
