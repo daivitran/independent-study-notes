@@ -11,7 +11,7 @@ The repository is organized by course, with each course having its own directory
 ## Courses
 **Neural Network: Zero to Hero** - This [course](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) is taught by the legendary Andrej Karpathy on Youtube. 
 
-**Optimization Models in Engineering** - This [course](https://www2.eecs.berkeley.edu/Courses/EECS127/) is EECS 127 from UC Berkeley. I didn't take it when I was a student there, but it turned out to be very important if I need to understand math heavy ML papers or get into robotics. In addition, it taught optimization which is pervasive in ML / AI world. I think Berkeley has decided to make the class private, so I don't think it's accessible by the public anymore.
+**Optimization Models in Engineering** - This [course](https://www2.eecs.berkeley.edu/Courses/EECS127/) is EECS 127 from UC Berkeley. I didn't take it when I was a student there, but it turned out to be very important if I need to understand math heavy ML papers or get into robotics. In addition, it taught linear algebra & optimization which is pervasive in ML / AI world. I think Berkeley has decided to make the class private, so I don't think it's accessible by the public anymore.
 
 **Robotic Manipulation** - This [course](https://manipulation.csail.mit.edu/Fall2022/index.html#description) is freely available from MIT.
 
