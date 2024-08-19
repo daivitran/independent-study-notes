@@ -9,11 +9,11 @@ Why self-study, you ask? Well, let's just say that getting a master's degree cos
 The repository is organized by course, with each course having its own directory. Within each course directory, you'll find subdirectories or files for individual assignments or projects.
 
 ## Courses
-**[Neural Network: Zero to Hero]** - This [course](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) is taught by the legendary Andrej Karpathy on Youtube. 
+**Neural Network: Zero to Hero** - This [course](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) is taught by the legendary Andrej Karpathy on Youtube. 
 
-**[Optimization Models in Engineering]** - This [course](https://www2.eecs.berkeley.edu/Courses/EECS127/) is EECS 127 from UC Berkeley. I didn't take it when I was a student there, but it turned out to be very important if I need to understand math heavy ML papers or get into robotics. In addition, it taught optimization which is pervasive in ML / AI world. I think Berkeley has decided to make the class private, so I don't think it's accessible by the public anymore.
+**Optimization Models in Engineering** - This [course](https://www2.eecs.berkeley.edu/Courses/EECS127/) is EECS 127 from UC Berkeley. I didn't take it when I was a student there, but it turned out to be very important if I need to understand math heavy ML papers or get into robotics. In addition, it taught optimization which is pervasive in ML / AI world. I think Berkeley has decided to make the class private, so I don't think it's accessible by the public anymore.
 
-**[Robotic Manipulation]** - This [course](https://manipulation.csail.mit.edu/Fall2022/index.html#description) is freely available from MIT.
+**Robotic Manipulation** - This [course](https://manipulation.csail.mit.edu/Fall2022/index.html#description) is freely available from MIT.
 
 ## Disclaimer
 These solutions are my own work and are meant for reference and learning purposes only. If you're currently enrolled in any of these courses, I encourage you to develop your own solutions to maximize your learning experience.
