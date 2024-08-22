@@ -15,8 +15,6 @@ The repository is organized by course, with each course having its own directory
 
 **Robotic Manipulation** - This [course](https://manipulation.csail.mit.edu/Fall2022/index.html#description) is freely available from MIT.
 
-**Full Stack Deep Learning** - This [course](https://fullstackdeeplearning.com/course/2022/) is for people who are building products that are powered by machine learning (ML).
-
 ## Disclaimer
 These solutions are my own work and are meant for reference and learning purposes only. If you're currently enrolled in any of these courses, I encourage you to develop your own solutions to maximize your learning experience.
 
